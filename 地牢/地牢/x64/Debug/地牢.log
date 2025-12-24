@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\C WANT TOTOOL\文件\地牢\地牢\源.cpp(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      D:\C WANT TOTOOL\文件\地牢\地牢\源.cpp(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  地牢.vcxproj -> D:\C WANT TOTOOL\文件\地牢\x64\Debug\地牢.exe
